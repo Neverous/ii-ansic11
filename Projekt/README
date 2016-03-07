@@ -1,0 +1,19 @@
+==========ANSIC Project Description==========
+Name:
+	Visualization of Sorting Algorithms
+
+Description:
+	The program is trying to visualize what the various sorting algorithms look
+	like. It shows an animation of sorting within a GTK window.
+
+	Implemented algorithms:
+		* Mergesort O(nlogn)
+		* Quicksort O(nlogn)
+		* Insertion O(nn)
+		* Selection O(nn)
+		* Bubblesort O(nn)
+		* Shellsort O(nn)
+		* Radixsort O(nm)
+		* Stoogesort O(n^2.7095...)
+		* Odd-evensort O(nn)
+		* Heapsort O(nlogn)
